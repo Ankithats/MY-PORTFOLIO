@@ -27,7 +27,14 @@ a{
 }
 
 
-
+  .word {
+    margin: auto;
+    color: white;
+    font-weight: 700;
+    
+    text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+  }
+  
 
 .header{
     color: white;
@@ -104,7 +111,7 @@ a{
     background: -webkit-linear-gradient(#ffffff, #fffeff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 3.6rem;
+    font-size: 2.6rem;
     font-weight: 700;
     line-height: 1.3;
 }  
